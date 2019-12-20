@@ -1,7 +1,4 @@
-# NYU_NYL_Capstone
+Check Xiao Tan 's repo for the latest update
 
-1. LaTeX zipfile:
-We use LaTex to compile both Poster and Report.
+https://github.com/xiaotan437/NYU_NYL_Capstone
 
-2. Code:
-#tbc
